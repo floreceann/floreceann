@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @floreceann
 - 👀 I’m interested in JavaScript, Angular, React, Java, iOS, Artificial Intelligence, Machine Learning.
-- 🌱 I’m currently learning Java and Mobile development - iOS.
+- 🌱 I’m currently learning Mobile development - iOS and Android.
 - 💞️ I’m looking to collaborate on any projects. Ping me.
 - 📫 You can reach me at florecedev@gmail.com
 
